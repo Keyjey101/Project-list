@@ -16,8 +16,8 @@ https://github.com/Keyjey101/triton-test
 ## Бэкэнд NODE JS ##
 * тудулист (express, ejs)
 * конвертер pdf (express, pupputeer, molter)
-* магазин (express, jwt, bcrypt, nodemailer, sequilize, express-validator, uuid)
-* сервис заметок (express, jwt, bcrypt, mongoose, express-validator)
+* магазин (express, jwt, bcrypt, nodemailer, sequilize, express-validator, uuid, postgreSQL)
+* сервис заметок (express, jwt, bcrypt, mongoose, express-validator, MongoDB)
 
 ## Фронтэнд REACT ##
 * магазин (hooks, context, mobx, bootstrap, jwt-decode) 

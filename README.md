@@ -14,7 +14,7 @@ https://github.com/Keyjey101/triton-test
 # Использованные технологии #
 
 ## Бэкэнд NODE JS ##
-* тудулист (express, ejs)
+* тудулист (express, ejs, mongoose, MongoDB)
 * конвертер pdf (express, pupputeer, molter)
 * магазин (express, jwt, bcrypt, nodemailer, sequilize, express-validator, uuid, postgreSQL)
 * сервис заметок (express, jwt, bcrypt, mongoose, express-validator, MongoDB)

@@ -1,25 +1,25 @@
 # ПРОЕКТЫ #
 
-##Магазин##
+## Магазин ##
 https://github.com/Keyjey101/v-ede-ne-eva-eStore
-##Конвертер в PDF##
+## Конвертер в PDF ##
 https://github.com/Keyjey101/converter-PDF
-##Сервис заметок##
+## Сервис заметок ##
 https://github.com/Keyjey101/keeper-app-heroku
-##Тудулист##
+## Тудулист ##
 https://github.com/Keyjey101/to-do-list
-##Пример каталог+корзина##
+## Пример каталог+корзина ##
 https://github.com/Keyjey101/triton-test
 
-#Использованные технологии#
+# Использованные технологии #
 
-##Бэкэнд NODE JS##
+## Бэкэнд NODE JS ##
 * тудулист (express, ejs)
 * конвертер pdf (express, pupputeer, molter)
 * магазин (express, jwt, bcrypt, nodemailer, sequilize, express-validator, uuid)
 * сервис заметок (express, jwt, bcrypt, mongoose, express-validator)
 
-##Фронтэнд REACT##
+## Фронтэнд REACT ##
 * магазин (hooks, context, mobx, bootstrap, jwt-decode) 
 * сервис заметок (material ui, uuid,jwt-decode)
 * пример каталог+корзина (hooks, material ui, uuid, внешний api)

@@ -17,7 +17,7 @@ https://github.com/Keyjey101/triton-test
 
 ## Бэкэнд NODE JS ##
 * тудулист (express, ejs, mongoose, MongoDB)
-* конвертер pdf (express, pupputeer, molter)
+* конвертер pdf (express, pupputeer, molter, docker)
 * магазин (express, jwt, bcrypt, nodemailer, sequilize, express-validator, uuid, postgreSQL)
 * сервис заметок (express, jwt, bcrypt, mongoose, express-validator, MongoDB)
 * чат (express, Web-socket, jwt, bcrypt, postgreSQL)

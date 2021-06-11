@@ -6,6 +6,8 @@ https://github.com/Keyjey101/v-ede-ne-eva-eStore
 https://github.com/Keyjey101/WS-Chat
 ## Конвертер в PDF ##
 https://github.com/Keyjey101/converter-PDF
+## Хранилище книг ##
+https://github.com/Keyjey101/BookStack
 ## Сервис заметок ##
 https://github.com/Keyjey101/keeper-app-heroku
 ## Тудулист ##
@@ -27,3 +29,4 @@ https://github.com/Keyjey101/triton-test
 * сервис заметок (material ui, uuid,jwt-decode)
 * пример каталог+корзина (hooks, material ui, uuid, внешний api)
 * тудулист (express, ejs)
+* книгохранилище (firebase-firestore)
